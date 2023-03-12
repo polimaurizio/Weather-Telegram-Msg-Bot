@@ -18,6 +18,11 @@ CHAT_ID="YOUR_CHAT_ID"
 USER_AGENT="YOUR_USER_AGENT"
 ```
 
+## Change weather location
+
+Modify the query variable with a location you want to know about.
+
+
 ## Run program
 
 ```
